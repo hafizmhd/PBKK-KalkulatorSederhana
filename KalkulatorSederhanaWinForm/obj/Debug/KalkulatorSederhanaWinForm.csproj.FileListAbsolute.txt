@@ -1,0 +1,11 @@
+D:\KULIAH\Semester 7\PBKK\Pertemuan 2\KalkulatorSederhanaWinForm\KalkulatorSederhanaWinForm\bin\Debug\KalkulatorSederhanaWinForm.exe.config
+D:\KULIAH\Semester 7\PBKK\Pertemuan 2\KalkulatorSederhanaWinForm\KalkulatorSederhanaWinForm\bin\Debug\KalkulatorSederhanaWinForm.exe
+D:\KULIAH\Semester 7\PBKK\Pertemuan 2\KalkulatorSederhanaWinForm\KalkulatorSederhanaWinForm\bin\Debug\KalkulatorSederhanaWinForm.pdb
+D:\KULIAH\Semester 7\PBKK\Pertemuan 2\KalkulatorSederhanaWinForm\KalkulatorSederhanaWinForm\obj\Debug\KalkulatorSederhanaWinForm.csproj.AssemblyReference.cache
+D:\KULIAH\Semester 7\PBKK\Pertemuan 2\KalkulatorSederhanaWinForm\KalkulatorSederhanaWinForm\obj\Debug\KalkulatorSederhanaWinForm.csproj.SuggestedBindingRedirects.cache
+D:\KULIAH\Semester 7\PBKK\Pertemuan 2\KalkulatorSederhanaWinForm\KalkulatorSederhanaWinForm\obj\Debug\KalkulatorSederhanaWinForm.Form1.resources
+D:\KULIAH\Semester 7\PBKK\Pertemuan 2\KalkulatorSederhanaWinForm\KalkulatorSederhanaWinForm\obj\Debug\KalkulatorSederhanaWinForm.Properties.Resources.resources
+D:\KULIAH\Semester 7\PBKK\Pertemuan 2\KalkulatorSederhanaWinForm\KalkulatorSederhanaWinForm\obj\Debug\KalkulatorSederhanaWinForm.csproj.GenerateResource.cache
+D:\KULIAH\Semester 7\PBKK\Pertemuan 2\KalkulatorSederhanaWinForm\KalkulatorSederhanaWinForm\obj\Debug\KalkulatorSederhanaWinForm.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 7\PBKK\Pertemuan 2\KalkulatorSederhanaWinForm\KalkulatorSederhanaWinForm\obj\Debug\KalkulatorSederhanaWinForm.exe
+D:\KULIAH\Semester 7\PBKK\Pertemuan 2\KalkulatorSederhanaWinForm\KalkulatorSederhanaWinForm\obj\Debug\KalkulatorSederhanaWinForm.pdb
